@@ -9,7 +9,7 @@ body {
     overflow-x: hidden;
 }
 
-/* ---------------- NAVBAR ---------------- */
+/* NAVBAR */ 
 
 .navbar {
     height: 65px;
@@ -68,7 +68,7 @@ body {
     cursor: pointer;
 }
 
-/* ---------------- HERO ---------------- */
+/* HERO  */
 
 .maincontent {
     background-image: url(bg.jpg);
@@ -94,7 +94,7 @@ body {
     color: #47474f;
 }
 
-/* ---------------- SHORTCUT BUTTONS ---------------- */
+/*  SHORTCUT BUTTONS  */
 
 .shortcut {
     margin: 20px auto 30px;
@@ -117,7 +117,7 @@ body {
     cursor: pointer;
 }
 
-/* ---------------- PDF BOXES ---------------- */
+/*  PDF BOXES  */
 
 .boxes1,
 .boxes2 {
@@ -171,7 +171,7 @@ body {
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
-/* ---------------- WORK ---------------- */
+/*  WORK  */
 
 .work {
     display: flex;
@@ -182,7 +182,7 @@ body {
     color: rgba(0, 0, 0, 0.77);
 }
 
-/* ---------------- IMAGE CARDS ---------------- */
+/* IMAGE CARDS */
 
 .images {
     display: flex;
@@ -240,7 +240,7 @@ body {
     color: black;
 }
 
-/* ---------------- PREMIUM ---------------- */
+/* PREMIUM */
 
 .premiumimage {
     display: flex;
@@ -253,7 +253,7 @@ body {
     height: auto;
 }
 
-/* ---------------- ILOVEIMG ---------------- */
+/*  ILOVEIMG */
 
 .iloveimg {
     display: flex;
@@ -295,7 +295,7 @@ body {
     cursor: pointer;
 }
 
-/* ---------------- END SECTION ---------------- */
+/* END SECTION */
 
 .end {
     max-width: 1400px;
@@ -314,7 +314,7 @@ body {
     font-size: 20px;
 }
 
-/* ---------------- RESPONSIVE ---------------- */
+/*  RESPONSIVE  */
 
 @media (max-width: 992px) {
 
